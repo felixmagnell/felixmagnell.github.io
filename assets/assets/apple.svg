@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Red Apple</title>
+  <!-- Apple body -->
+  <path d="M32 4 
+           C20 4, 12 16, 12 28 
+           C12 42, 28 60, 32 60 
+           C36 60, 52 42, 52 28 
+           C52 16, 44 4, 32 4 Z" fill="#E41A1C"/>
+  <!-- Highlight -->
+  <ellipse cx="26" cy="26" rx="4" ry="2" fill="#FF7F7F" opacity="0.6"/>
+  <!-- Stem -->
+  <rect x="30" y="0" width="4" height="8" fill="#8B4513"/>
+  <!-- Leaf -->
+  <path d="M32 2 
+           C36 0, 40 4, 34 6 
+           C30 8, 28 6, 32 2 Z" fill="#228B22"/>
+</svg>
